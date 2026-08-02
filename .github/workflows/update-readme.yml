@@ -23,6 +23,8 @@ jobs:
           max_post_count: 6
           template: "- [$title]($url) — $feedName · $date$newline"
           date_format: "UTC:yyyy-mm-dd"
+          # 開始タグと1件目を別行に分ける（同じ行だと Markdown がリストとして解釈しない）
+          tag_post_pre_newline: "true"
           commit_message: "chore: update writing list"
 
       - name: Update talk list
@@ -33,8 +35,9 @@ jobs:
           max_post_count: 4
           template: "- [$title]($url) — $date$newline"
           date_format: "UTC:yyyy-mm-dd"
-          # Docswell のタイトルに付く "[スライド] " を落とす
-          item_exec: "post.title = post.title.replace('[スライド] ', '')"
+          tag_post_pre_newline: "true"
+          # タイトルの "[スライド] " と、URL 末尾の計測用 ?ref=rss を落とす
+          item_exec: "post.title = post.title.replace('[スライド] ', ''); post.url = post.url.replace('?ref=rss', '')"
           # keepalive は前段のステップに任せる（空コミットの二重発生を防ぐ）
           enable_keepalive: "false"
           commit_message: "chore: update talk list"
