@@ -1,0 +1,40 @@
+name: Update README
+
+on:
+  schedule:
+    # 毎日 06:00 JST (21:00 UTC)
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Update writing list
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://kouno-log.hkono.workers.dev/feed.xml,https://note.com/hk_it7/rss,https://hk-it.hatenablog.com/rss,https://qiita.com/hk_it7/feed"
+          feed_names: "kouno.log,note,Hatena,Qiita"
+          max_post_count: 6
+          template: "- [$title]($url) — $feedName · $date$newline"
+          date_format: "UTC:yyyy-mm-dd"
+          commit_message: "chore: update writing list"
+
+      - name: Update talk list
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "TALK-LIST"
+          feed_list: "https://www.docswell.com/user/hk_it7/feed"
+          max_post_count: 4
+          template: "- [$title]($url) — $date$newline"
+          date_format: "UTC:yyyy-mm-dd"
+          # Docswell のタイトルに付く "[スライド] " を落とす
+          item_exec: "post.title = post.title.replace('[スライド] ', '')"
+          # keepalive は前段のステップに任せる（空コミットの二重発生を防ぐ）
+          enable_keepalive: "false"
+          commit_message: "chore: update talk list"
