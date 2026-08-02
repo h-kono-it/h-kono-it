@@ -18,7 +18,10 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 
 ### Talks
 
-<!-- TALK-LIST:START -->
+<!-- TALK-LIST:START -->- [Enum 徹底入門](https://www.docswell.com/s/hk_it7/Z8NMQ1-2026-05-30-075434?ref=rss) — 2026-05-29
+- [個人開発から切り出す個人開発で一石二鳥しよう](https://www.docswell.com/s/hk_it7/KGNQLP-personal_project?ref=rss) — 2026-05-22
+- [コミュニティ・勉強会の作り方](https://www.docswell.com/s/hk_it7/5WRX7X-2026-04-27-community-ganbaranai?ref=rss) — 2026-04-27
+- [楽しさを伝え繋げるアウトプット！-ワンストップ アウトプット！](https://www.docswell.com/s/hk_it7/5GN11M-2026-04-04-172031?ref=rss) — 2026-04-04
 <!-- TALK-LIST:END -->
 
 ### Building
