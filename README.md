@@ -9,12 +9,12 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [「手積み麻雀の練習」を公開しました](https://kouno-log.hkono.workers.dev/news/tedumi-mahjong-practice/) — kouno.log · 2026-08-03
 - [私の「かわるもの、かわらないもの」](https://note.com/hk_it7/n/n736cff3e1232) — note · 2026-07-30
 - [Blume で作るドキュメントサイト — ポジショニングと拡張の勘所](https://hk-it.hatenablog.com/entry/2026/07/25/121733) — Hatena · 2026-07-25
 - [Blume に Issue と PR を出したら全部拾ってもらえた話](https://kouno-log.hkono.workers.dev/memos/blume-oss-contributions/) — kouno.log · 2026-07-22
 - [【きのこカンファレンス2026】参加者概況レポート](https://note.com/hk_it7/n/nf4cefc0806f6) — note · 2026-07-21
 - [「法務案件チェックポイント」を公開しました](https://kouno-log.hkono.workers.dev/news/legal-check-helper/) — kouno.log · 2026-07-21
-- [コアスタッフ向けギフトのお礼 #きのこ2026](https://note.com/hk_it7/n/n36d39ef82ed5) — note · 2026-07-19
 
 <!-- BLOG-POST-LIST:END -->
 
