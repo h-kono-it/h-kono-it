@@ -9,12 +9,12 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [武蔵野線.dev、始動します！](https://hk-it.hatenablog.com/entry/2026/08/13/091844) — Hatena · 2026-08-13
 - [サイト内検索機能を追加しました](https://kouno-log.hkono.workers.dev/news/site-search/) — kouno.log · 2026-08-08
 - [日本語の全文検索は「分かち書き」だけでは足りない — Pagefind と Orama を測って、文字bigram で直すまで](https://hk-it.hatenablog.com/entry/2026/08/05/210424) — Hatena · 2026-08-05
 - [Blume の日本語検索、バージョン別の計測記録](https://kouno-log.hkono.workers.dev/memos/blume-japanese-search-benchmark/) — kouno.log · 2026-08-05
 - [「手積み麻雀の練習」を公開しました](https://kouno-log.hkono.workers.dev/news/tedumi-mahjong-practice/) — kouno.log · 2026-08-03
 - [私の「かわるもの、かわらないもの」](https://note.com/hk_it7/n/n736cff3e1232) — note · 2026-07-30
-- [Blume で作るドキュメントサイト — ポジショニングと拡張の勘所](https://hk-it.hatenablog.com/entry/2026/07/25/121733) — Hatena · 2026-07-25
 
 <!-- BLOG-POST-LIST:END -->
 
