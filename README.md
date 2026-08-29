@@ -9,12 +9,12 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [無題。](https://note.com/hk_it7/n/n3f3e4c237b61) — note · 2026-08-29
 - [Astro 7 で空の thead を消そうとしたらMarkdownプロセッサが変わっていた](https://kouno-log.hkono.workers.dev/memos/astro7-satteri-hast-plugin/) — kouno.log · 2026-08-23
 - [武蔵野線.dev を立ち上げます](https://kouno-log.hkono.workers.dev/news/musashino-line-dev/) — kouno.log · 2026-08-23
 - [武蔵野線.dev、始動します！](https://hk-it.hatenablog.com/entry/2026/08/13/091844) — Hatena · 2026-08-13
 - [サイト内検索機能を追加しました](https://kouno-log.hkono.workers.dev/news/site-search/) — kouno.log · 2026-08-08
 - [日本語の全文検索は「分かち書き」だけでは足りない — Pagefind と Orama を測って、文字bigram で直すまで](https://hk-it.hatenablog.com/entry/2026/08/05/210424) — Hatena · 2026-08-05
-- [Blume の日本語検索、バージョン別の計測記録](https://kouno-log.hkono.workers.dev/memos/blume-japanese-search-benchmark/) — kouno.log · 2026-08-05
 
 <!-- BLOG-POST-LIST:END -->
 
