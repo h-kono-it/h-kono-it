@@ -9,12 +9,12 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [コミュニティのマスコットにDiscordの週報を書かせている話](https://note.com/hk_it7/n/n49940a79e087) — note · 2026-09-16
+- [東葛.devの2026年秋は3イベント。「身内に閉じない」と「身内に届け続ける」の2軸で考えたこと](https://hk-it.hatenablog.com/entry/2026/09/16/164112) — Hatena · 2026-09-16
 - [TechTAMA 2026 Conference でキーノートを話します](https://kouno-log.hkono.workers.dev/news/techtama-2026-conference/) — kouno.log · 2026-09-02
 - [武蔵野線.devまで乗り換え一回で参加できるルート一覧！（ネタ記事）](https://note.com/hk_it7/n/n622d8f3275c1) — note · 2026-08-30
 - [無題。](https://note.com/hk_it7/n/n3f3e4c237b61) — note · 2026-08-29
 - [Astro 7 で空の thead を消そうとしたらMarkdownプロセッサが変わっていた](https://kouno-log.hkono.workers.dev/memos/astro7-satteri-hast-plugin/) — kouno.log · 2026-08-23
-- [武蔵野線.dev を立ち上げます](https://kouno-log.hkono.workers.dev/news/musashino-line-dev/) — kouno.log · 2026-08-23
-- [武蔵野線.dev、始動します！](https://hk-it.hatenablog.com/entry/2026/08/13/091844) — Hatena · 2026-08-13
 
 <!-- BLOG-POST-LIST:END -->
 
