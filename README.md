@@ -21,10 +21,10 @@ Java / Kotlin / Ruby / TypeScript / Node.js / AWS
 ### Talks
 
 <!-- TALK-LIST:START -->
+- [チームと組織を磨く「決めさせる」技術 — 組織横断課題を動かすための枠組み作りと権限委譲](https://www.docswell.com/s/hk_it7/ZMQPYX-komekaigi_2026_kouno) — 2026-10-31
 - [そのコメント、誰が検証していますか](https://www.docswell.com/s/hk_it7/K1QEY2-dai_funadev-docs) — 2026-09-12
 - [Enum 徹底入門](https://www.docswell.com/s/hk_it7/Z8NMQ1-2026-05-30-075434) — 2026-05-29
 - [個人開発から切り出す個人開発で一石二鳥しよう](https://www.docswell.com/s/hk_it7/KGNQLP-personal_project) — 2026-05-22
-- [コミュニティ・勉強会の作り方](https://www.docswell.com/s/hk_it7/5WRX7X-2026-04-27-community-ganbaranai) — 2026-04-27
 
 <!-- TALK-LIST:END -->
 
